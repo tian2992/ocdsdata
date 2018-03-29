@@ -12,4 +12,8 @@ SOURCES = {
         'import':'ocdsdata.sources.canada_montreal',
         'class': 'CanadaMontreal'
     },
+    'colombia': {
+        'import':'ocdsdata.sources.colombia',
+        'class': 'ColombiaFetcher'
+    },
 }
